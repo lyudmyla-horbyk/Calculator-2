@@ -1,0 +1,23 @@
+{
+  "name": "calculator-2",
+  "version": "1.0.0",
+  "description": "Super simple calculator on HTML CSS and JS",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint calculator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyudmyla-horbyk/Calculator-2.git"
+  },
+  "author": "Liudmyla Liashuk <lyudmyla.horbyk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyudmyla-horbyk/Calculator-2/issues"
+  },
+  "homepage": "https://github.com/lyudmyla-horbyk/Calculator-2#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
+}
